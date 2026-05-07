@@ -1,6 +1,6 @@
 # Hi, I'm Ebrahem
 Full-stack developer focused on building structured, real-world applications.
-Currently working with MERN and FastAPI, with a strong interest in backend systems.
+Currently working with MERN Stack, with a strong interest in backend systems.
 
 ---
 
